@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Nilai Mahasiswa</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h2>Daftar Nilai Mahasiswa</h2>
+
+  <div class="search-wrap">
+    <input id="search-input" type="text" placeholder="Cari nama, asal, prodi, atau nilai..." aria-label="Cari nama, asal, prodi, atau nilai" />
+    <button id="search-btn" type="button">Cari</button>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>NIM</th>
+        <th>Nama Mahasiswa</th>
+        <th>Asal</th>
+        <th>Program Studi</th>
+        <th>Nilai</th>
+      </tr>
+    </thead>
+    
+    <tbody id="tabel-mahasiswa"></tbody>
+  </table>
+
+  <div id="mahasiswa-detail" class="detail-box" hidden>
+    <h3>Detail Mahasiswa</h3>
+    <div id="detail-content"></div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

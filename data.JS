@@ -1,0 +1,28 @@
+
+const dataMahasiswa = [
+  { nim: "2023001", nama: "Muhammad Rizki Pratama", asal: "Bandung", nilai: 85, prodi: "Teknik Informatika" },
+  { nim: "2023002", nama: "Budi Santoso", asal: "Surabaya", nilai: 70, prodi: "Manajemen" },
+  { nim: "2023003", nama: "Siti Aisyah Putri", asal: "Jakarta", nilai: 92, prodi: "Desain Komunikasi Visual" },
+  { nim: "2023004", nama: "Dian Permata Sari", asal: "Yogyakarta", nilai: 78, prodi: "Psikologi" },
+  { nim: "2023005", nama: "Fajar Nugroho", asal: "Semarang", nilai: 82, prodi: "Teknik Elektro" },
+  { nim: "2023006", nama: "Gita Maharani", asal: "Medan", nilai: 100, prodi: "Teknik Elektro" },
+  { nim: "2023007", nama: "Hendra Wijaya", asal: "Palembang", nilai: 88, prodi: "Teknik Elektro" },
+  { nim: "2023008", nama: "Intan Sari Dewi", asal: "Makassar", nilai: 20, prodi: "Teknik Elektro" },
+  { nim: "2023009", nama: "Joko Widodo", asal: "Solo", nilai: 19, prodi: "Teknik Elektro" },
+  { nim: "2023010", nama: "Kartika Lestari", asal: "Bogor", nilai: 60, prodi: "Teknik Elektro" },
+  { nim: "2023011", nama: "Lina Marlina", asal: "Banjarmasin", nilai: 76, prodi: "Teknik Elektro" },
+  { nim: "2023012", nama: "Mira Septia", asal: "Pontianak", nilai: 60, prodi: "Teknik Elektro" },
+  { nim: "2023013", nama: "Nanda Putra", asal: "Padang", nilai: 90, prodi: "Teknik Elektro" },
+  { nim: "2023014", nama: "Omar Farhan", asal: "Balikpapan", nilai: 73, prodi: "Teknik Elektro" },
+  { nim: "2023015", nama: "Putri Ayu Lestari", asal: "Denpasar", nilai: 78, prodi: "Teknik Elektro" },
+  { nim: "2023016", nama: "Qori Maulida", asal: "Malang", nilai: 99, prodi: "Teknik Elektro" },
+  { nim: "2023017", nama: "Rizki Prasetyo", asal: "Tasikmalaya", nilai: 86, prodi: "Teknik Elektro" },
+  { nim: "2023018", nama: "Sari Rahmawati", asal: "Bekasi", nilai: 85, prodi: "Ekonomi" },
+  { nim: "2023019", nama: "Miranti Kusuma", asal: "Sukabumi", nilai: 50, prodi: "Teknik Industri" },
+  { nim: "2023020", nama: "Umar Hasan", asal: "Cirebon", nilai: 49, prodi: "Teknik Industri" },
+  { nim: "2023021", nama: "Vina Amelia", asal: "Mataram", nilai: 80, prodi: "Kedokteran" },
+  { nim: "2023022", nama: "Wahyu Pratama", asal: "Pekanbaru", nilai: 82, prodi: "Teknik Elektro" },
+  { nim: "2023023", nama: "Xena Nabila", asal: "Banda Aceh", nilai: 87, prodi: "Teknik Elektro" },
+  { nim: "2023024", nama: "Yusuf Hidayat", asal: "Lampung", nilai: 68, prodi: "Teknik Elektro" },
+  { nim: "2023025", nama: "Zahra Aulia", asal: "Kendari", nilai: 53, prodi: "Teknik Elektro" }
+];
